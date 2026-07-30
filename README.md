@@ -1,27 +1,15 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sayandh Raj</h1>
+<h3 align="center">AI Systems Development | Machine Learning | Data Science | LLM Applications | Analytics | Cloud & Data-Driven Technologies</h3>
 
-# Sayandh Raj
+- 📫 How to reach me **sayandhsr123@gmail.com**
 
-</div>
-<div align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sayandhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayandhsr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayandh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayandh-raj" height="30" width="40" /></a>
+<a href="https://kaggle.com/sayandhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayandhsr" height="30" width="40" /></a>
+<a href="https://instagram.com/sayahd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayahd_" height="30" width="40" /></a>
+</p>
 
-### AI Systems Development | Machine Learning | Data Science | LLM Applications | Analytics | Cloud & Data-Driven Technologies
-
-</div>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayandh-raj) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sayandhsr) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sayandhsr123@gmail.com)
-
-</div>
----
-## Summary
-I am an Artificial Intelligence and Data Science professional currently pursuing an M.Sc. in Computer Science with a specialization in AI. My expertise spans machine learning, generative AI, and end-to-end data analytics to solve complex real-world problems. I have built intelligent systems through industry projects with IBM and TCS iON, alongside hands-on AI application development.
-## Focus Areas
-
-- Currently developing RAG-based document chatbots and LLM applications.
-- Exploring advanced deep learning architectures with PyTorch and TensorFlow.
-- Ask me about predictive modeling, natural language processing, and cloud data solutions.
-
-## Core Competencies
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-555?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-555?style=flat) ![pandas](https://img.shields.io/badge/pandas-555?style=flat) ![SQL](https://img.shields.io/badge/SQL-555?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-555?style=flat) ![Probability](https://img.shields.io/badge/Probability-555?style=flat) ![Statistics](https://img.shields.io/badge/Statistics-555?style=flat) ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-555?style=flat) ![Calculus](https://img.shields.io/badge/Calculus-555?style=flat) ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-555?style=flat) ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-555?style=flat) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-555?style=flat) ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-555?style=flat) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-555?style=flat) ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-555?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit-learn-555?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
