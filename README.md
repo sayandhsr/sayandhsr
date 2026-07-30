@@ -1,13 +1,43 @@
-AI Systems Development | Machine Learning | Data Science | LLM Applications | Analytics | Cloud & Data-Driven Technologies
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sayahd_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sayandh-raj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sayandhsr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayandhsr123@gmail.com) 
+# Sayandh Raj
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sayandhsr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sayandhsr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sayandhsr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### AI Systems Development | Machine Learning | Data Science | LLM Applications | Analytics | Cloud & Data-Driven Technologies
+
+</div>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayandh-raj) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/sayandhsr) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sayandhsr123@gmail.com)
+
+</div>
+---
+## Summary
+I am an Artificial Intelligence and Data Science professional currently pursuing an M.Sc. in Computer Science with a specialization in AI. My expertise spans machine learning, generative AI, and end-to-end data analytics to solve complex real-world problems. I have built intelligent systems through industry projects with IBM and TCS iON, alongside hands-on AI application development.
+## Focus Areas
+
+- Currently developing RAG-based document chatbots and LLM applications.
+- Exploring advanced deep learning architectures with PyTorch and TensorFlow.
+- Ask me about predictive modeling, natural language processing, and cloud data solutions.
+
+## Core Competencies
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-555?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-555?style=flat) ![pandas](https://img.shields.io/badge/pandas-555?style=flat) ![SQL](https://img.shields.io/badge/SQL-555?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-555?style=flat) ![Probability](https://img.shields.io/badge/Probability-555?style=flat) ![Statistics](https://img.shields.io/badge/Statistics-555?style=flat) ![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-555?style=flat) ![Calculus](https://img.shields.io/badge/Calculus-555?style=flat) ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-555?style=flat) ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-555?style=flat) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-555?style=flat) ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-555?style=flat) ![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-555?style=flat) ![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-555?style=flat) ![scikit-learn](https://img.shields.io/badge/scikit-learn-555?style=flat) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+## GitHub Activity
+<div align="center">
+
+![sayandhsr's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayandhsr&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+</div>
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayandhsr&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+<div align="center">
+
+[![Made with ReadmeBuddy](https://img.shields.io/badge/Made%20with-ReadmeBuddy-8B5CFF?style=for-the-badge&logo=markdown&logoColor=white)](https://readmebuddy.com)
+
+</div>
