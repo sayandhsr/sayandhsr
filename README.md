@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- DARCULA HEADER ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+Data+Science+Engineer;Architecting+Intelligent+Systems;Turning+Data+into+Insights" alt="Typing Animation" />
+<!-- GREENLANDER HEADER ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+Data+Science+Engineer;Architecting+Intelligent+Systems;Turning+Data+into+Insights" alt="Typing Animation" />
 
 <h1><code>> sayandh_raj.py</code></h1>
 
@@ -10,22 +10,22 @@
 
 <br />
 
-<!-- SOCIAL CONNECT BADGES (Darcula Colors) -->
+<!-- SOCIAL CONNECT BADGES (Greenlander Theme) -->
 <p align="center">
   <a href="mailto:sayandhsr123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-E11D48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-022C22?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/sayandh-raj" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-064E3B?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" />
   </a>
   <a href="https://www.kaggle.com/sayandhsr" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-8B5CF6?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-065F46?style=for-the-badge&logo=kaggle&logoColor=10B981" alt="Kaggle" />
   </a>
   <a href="https://x.com/SayandhSr" target="_blank">
-    <img src="https://img.shields.io/badge/X-1E1E1E?style=for-the-badge&logo=x&logoColor=F43F5E" alt="X" />
+    <img src="https://img.shields.io/badge/X-047857?style=for-the-badge&logo=x&logoColor=10B981" alt="X" />
   </a>
   <a href="https://www.threads.com/@sayahd_" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-1E1E1E?style=for-the-badge&logo=threads&logoColor=8B5CF6" alt="Threads" />
+    <img src="https://img.shields.io/badge/Threads-059669?style=for-the-badge&logo=threads&logoColor=10B981" alt="Threads" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@ class Developer:
         self.role = "AI / ML / Data Science & Analytics Engineer"
         self.education = "M.Sc. CS (AI) & BCA AI & DS"
         self.status = "Actively seeking opportunities in AI & Data Engineering"
-        self.fuel = "Caffeine & Neural Networks"
+        self.fuel = "Matcha & Neural Networks"
 
     def current_focus(self):
         return [
