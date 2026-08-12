@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- COFFEE HEADER ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&width=500&lines=☕+Brewing+Intelligent+Systems...;🤖+AI+%2F+ML+%2F+Data+Science+Engineer;📊+Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
-</p>
+<!-- FIXED COFFEE HEADER ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4A373&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%2F+Data+Science+Engineer;Brewing+Intelligent+Systems...;Turning+Data+into+Insights" alt="Typing Animation" />
 
 <h1><code>☕ sayandh_raj.py</code></h1>
 
