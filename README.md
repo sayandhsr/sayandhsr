@@ -1,17 +1,43 @@
-<h1 align="center">Hi 👋, I'm SAYANDH RAJ</h1>
-<h3 align="center">AI Systems Development | Machine Learning | Data Science | LLM Applications | Analytics | Cloud & Data-Driven Technologies</h3>
+Contribution Space Shooter
+<p align="center"> <img src="https://raw.githubusercontent.com/sayandhsr/sayandhsr/output/space-shooter.gif" alt="sayandhsr's contribution Space Shooter" /> </p> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Sayandh%20Raj;Welcome+to+my+profile!" alt="Typing SVG" /> </h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/168454075?u=c1097a047814711888fa4e76c6a03ccf61c606af&v=4" width="150" style="border-radius: 50%;" alt="Sayandh Raj" /> </p>
+👨‍💻 About Me
+Aspiring Data Scientist/ Analyst/ Machine learning BCA ’26 (DATA SCIENCE AND ARTIFICIAL INTELLIGENCE)
 
-<p align="left"> <a href="https://twitter.com/sayandhsr" target="blank"><img src="https://img.shields.io/twitter/follow/sayandhsr?logo=twitter&style=for-the-badge" alt="sayandhsr" /></a> </p>
+📍 Based in Bengaluru, Karnataka, India
+👥 3 followers · 1 following
+🛠️ Languages & Tools
+• Python, SQL, R (Basic)
+• Machine Learning, NLP, Computer Vision
+• Data Science, Analytics, EDA, Statistical Analysis
+• Power BI, Tableau, Excel
+• LangChain, Hugging Face, OpenRouter, RAG, LLM Applications
+• Docker, Firebase, Supabase, GitHub, Vercel, REST APIs 
 
-- 📫 How to reach me **sayandhsr123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sayandhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayandhsr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayandh-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayandh-raj" height="30" width="40" /></a>
-<a href="https://kaggle.com/sayandhsr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayandhsr" height="30" width="40" /></a>
-<a href="https://instagram.com/sayahd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayahd_" height="30" width="40" /></a>
-</p>
+📊 GitHub Stats
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sayandhsr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=sayandhsr&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture> </p>
+🚀 Featured Projects
+logistics-bigdata-project Python
+No description provided ⭐ 2 | 🍴 0
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+crop-forecast-pro Jupyter Notebook
+Precision Agriculture ML + Streamlit + PowerBI ⭐ 1 | 🍴 0
+
+AI-Assist JavaScript
+No description provided ⭐ 1 | 🍴 0
+
+ai-code-re JavaScript
+No description provided ⭐ 1 | 🍴 0
+
+ai_studynwork TypeScript
+No description provided ⭐ 1 | 🍴 0
+
+Skin-D-Pred
+No description provided ⭐ 1 | 🍴 0
+
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sayandhsr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=sayandhsr&theme=github-dark&style=terminal" alt="sayandhsr contribution activity" /></picture> </p>
+🤝 Connect With Me
+<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sayandhsr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=sayandhsr&theme=github-dark&style=terminal" alt="sayandhsr social links" /></picture> </p>
+
+
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
