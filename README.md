@@ -1,43 +1,58 @@
-Contribution Space Shooter
+<div align="center">
 
-👨‍💻 About Me
-Aspiring Data Scientist/ Analyst/ Machine learning BCA ’26 (DATA SCIENCE AND ARTIFICIAL INTELLIGENCE)
+<!-- COFFEE HEADER ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4A373&width=500&lines=☕+Brewing+Intelligent+Systems...;🤖+AI+%2F+ML+%2F+Data+Science+Engineer;📊+Turning+Raw+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
 
-📍 Based in Bengaluru, Karnataka, India
-👥 3 followers · 1 following
-🛠️ Languages & Tools
-• Python, SQL, R (Basic)
-• Machine Learning, NLP, Computer Vision
-• Data Science, Analytics, EDA, Statistical Analysis
-• Power BI, Tableau, Excel
-• LangChain, Hugging Face, OpenRouter, RAG, LLM Applications
-• Docker, Firebase, Supabase, GitHub, Vercel, REST APIs 
+<h1><code>☕ sayandh_raj.py</code></h1>
 
+<p><b>Artificial Intelligence & Data Science Professional</b></p>
+<p><i>M.Sc. Computer Science (AI) &nbsp;|&nbsp; BCA AI & Data Science (CGPA: 8.59)</i></p>
 
-📊 GitHub Stats
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sayandhsr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=sayandhsr&theme=github-dark&style=terminal" alt="GitHub Stats" /></picture> </p>
-🚀 Featured Projects
-logistics-bigdata-project Python
-No description provided ⭐ 2 | 🍴 0
+<br />
 
-crop-forecast-pro Jupyter Notebook
-Precision Agriculture ML + Streamlit + PowerBI ⭐ 1 | 🍴 0
+<!-- SOCIAL CONNECT BADGES -->
+<p align="center">
+  <a href="mailto:sayandhsr123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-332219?style=for-the-badge&logo=gmail&logoColor=D4A373" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayandh-raj" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4A3525?style=for-the-badge&logo=linkedin&logoColor=D4A373" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/sayandhsr" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-6F4E37?style=for-the-badge&logo=kaggle&logoColor=D4A373" alt="Kaggle" />
+  </a>
+  <a href="https://x.com/SayandhSr" target="_blank">
+    <img src="https://img.shields.io/badge/X-332219?style=for-the-badge&logo=x&logoColor=D4A373" alt="X" />
+  </a>
+  <a href="https://www.threads.com/@sayahd_" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-4A3525?style=for-the-badge&logo=threads&logoColor=D4A373" alt="Threads" />
+  </a>
+</p>
 
-AI-Assist JavaScript
-No description provided ⭐ 1 | 🍴 0
+</div>
 
-ai-code-re JavaScript
-No description provided ⭐ 1 | 🍴 0
+<br />
 
-ai_studynwork TypeScript
-No description provided ⭐ 1 | 🍴 0
+---
 
-Skin-D-Pred
-No description provided ⭐ 1 | 🍴 0
+<br />
 
-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=sayandhsr&theme=github-dark&style=terminal" alt="sayandhsr contribution activity" /></picture> </p>
-🤝 Connect With Me
-<p align="center"> <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=sayandhsr&theme=github-dark&style=terminal&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=sayandhsr&theme=github-dark&style=terminal" alt="sayandhsr social links" /></picture> </p>
+### ☕ The Daily Brew (About Me)
 
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Sayandh Raj"
+        self.role = "AI / ML / Data Science & Analytics Engineer"
+        self.education = "M.Sc. CS (AI) & BCA AI & DS"
+        self.status = "Actively seeking opportunities in AI & Data Engineering"
+        self.fuel = "Espresso & Complex Datasets"
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+    def current_focus(self):
+        return [
+            "Building GenAI & RAG-based systems",
+            "Designing real-time cloud big data architectures",
+            "Predictive modeling & machine learning pipelines"
+        ]
